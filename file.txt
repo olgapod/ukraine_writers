@@ -1,2 +1,10 @@
 Susana
+<<<<<<< HEAD
 mother
+=======
+Adam
+Sam
+Kate
+
+
+>>>>>>> first_branch
